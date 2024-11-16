@@ -1,0 +1,14 @@
+/* Taille d'écran xs */
+@media only screen and (max-width: 767px) {
+    /*code css*/
+}
+
+/* Taille d'écran sm */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /*code css*/
+}
+
+/* Taille d'écran lg */
+@media only screen and (min-width: 992px) {
+    /*code css*/
+}
